@@ -1,0 +1,8 @@
+class: 
+    class_name: 友情链接
+    link_list: 
+        1: 
+            name: free-ss
+            link: https://www.92shiwan.com
+            avatar: https://www.92shishi.com/img/avatar.png
+            descr: 使用ishadow提供的免费ss节点，生成shadowsocks能识别的二维码。

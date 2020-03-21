@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
-keywords:
-author: John Doe
-language: en
-timezone: ''
+title: 天天限免
+subtitle: 'Steam, Epic Games Store, GOG, Origin 和 Microsoft Store 限免游戏'
+description: '发布 Steam, Epic Games Store, GOG, Origin, 和 Microsoft Store 限免游戏'
+keywords: Steam, Epic, GOG, Origin, Microsoft Store, 限免游戏, 92shishi.com
+author: 92shishi
+language: zh-CN
+timezone: 'Asia/Shanghai'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: http://www.92shishi.com
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -93,7 +93,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: Butterfly
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html

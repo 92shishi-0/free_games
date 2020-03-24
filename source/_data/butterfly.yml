@@ -296,10 +296,11 @@ ICP:
 
 ####   Analysis    ####
 # ---------------
-baidu_analytics: e3e50c58d58c6a111d37acb3f408ab71
+# baidu_analytics: e3e50c58d58c6a111d37acb3f408ab71
+baidu_analytics:
 
 # Google Analytics
-google_analytics:
+google_analytics: UA-723429-2
 
 # Tencent_analytics ID
 tencent_analytics:

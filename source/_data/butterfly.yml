@@ -8,7 +8,7 @@ menu:
   首页: / || fa fa-home
   归档: /archives/ || fa fa-archive
   标签: /tags/ || fa fa-tags
-  厂商: /categories/ || fa fa-folder-open
+  平台: /categories/ || fa fa-folder-open
   友链: /link/ || fa fa-link
   # About: /about/ || fa fa-heart
   # List||fa fa-list:
@@ -52,9 +52,9 @@ copy:
 #   icon: link
 # ---------------
 social:
-  fa fa-github: https://github.com/xincmg
-  fa fa-envelope: mailto:xincmg@gmail.com
-  fa fa-rss: /atom.xml
+  # fa fa-github: https://github.com/xincmg
+  # fa fa-envelope: mailto:xincmg@gmail.com
+  # fa fa-rss: /atom.xml
 
 ####    search    ####
 # Algolia search
@@ -162,7 +162,7 @@ post_meta:
   page:
     date_type: created # created or updated or both 主頁文章日期是創建日或者更新日或都顯示
     categories: true # true or false 主頁是否顯示分類
-    tags: false # true or false 主頁是否顯示標籤
+    tags: true # true or false 主頁是否顯示標籤
   post:
     date_type: created # created or updated or both 文章頁日期是創建日或者更新日或都顯示
     categories: true # true or false 文章頁是否顯示分類
